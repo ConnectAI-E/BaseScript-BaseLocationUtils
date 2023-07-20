@@ -1,0 +1,18 @@
+{
+  "choose.table": "Please Select Table",
+  "choose.sourceField.address": "Input Field (Address)",
+  "choose.sourceField.xy": "Input Field (Longitude,Latitude)",
+  "choose.targetField": "Output Field (Base Location)",
+  "choose.opType": "Convert Type",
+  "opType.xyToLocation": "Longitude,Latitude->Base Location",
+  "opType.addressToLocation": "Address->Base Location",
+  "choose": "Please Choose",
+  "start.btn": "Batch Convert",
+  "err.sourceField": "Please Select Input Field",
+  "err.targetField": "Please Select Output Field",
+  "err.opType": "Please Select Convert Type",
+  "err.table": "Please Select Table",
+  "success": "Convert Success",
+  "err": "Convert Failed",
+  "trans.num": "{{num}} Rows Converted"
+}

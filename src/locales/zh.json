@@ -1,0 +1,18 @@
+{
+  "choose.table": "请选择数据表",
+  "choose.sourceField.address": "输入字段(地址文本)",
+  "choose.sourceField.xy": "输入字段(经纬度)",
+  "choose.targetField": "输出字段(多维表格地理位置)",
+  "choose.opType": "转换类型",
+  "opType.xyToLocation": "经纬度->多维表格地理位置",
+  "opType.addressToLocation": "地址文本->多维表格地理位置",
+  "choose": "请选择",
+  "start.btn": "批量转换",
+  "err.sourceField": "请选择输入字段",
+  "err.targetField": "请选择输出字段",
+  "err.opType": "请选择转换类型",
+  "err.table": "请先选择数据表",
+  "success": "转换成功",
+  "err": "转换失败",
+  "trans.num": "已转换 {{num}} 行"
+}
